@@ -1,6 +1,9 @@
 
 public class Hello_World {
+
     public static void main(String[] args) {
-        System.out.println("hello world");
+        int num1 = 3;
+        int num2 = num1 << 2;
+        System.out.print(num2);
     }
 }
